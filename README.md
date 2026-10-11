@@ -19,5 +19,5 @@ Este projeto investiga a capacidade preditiva da demanda horária de empréstimo
 ## 🛠️ Como Reproduzir
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/pedro-h-barbosa/compartilhamento-de-bicicletas-ffcd-ufpr.git](https://github.com/pedro-h-barbosa/compartilhamento-de-bicicletas-ffcd-ufpr.git)
-cd compartilhamento-de-bicicletas-ffcd-ufpr
+git clone https://github.com/pedro-h-barbosa/bike-sharing-ffcd-ufpr.git
+cd bike-sharing-ffcd-ufpr
